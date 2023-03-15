@@ -17,6 +17,9 @@ import java.util.Map;
 public class StockList {
     private final Map<String, StockItem> list;
 
+    
+    //  This is a second test comment for test purposes as seen in lecture 58.  
+    
     public StockList() {
         this.list = new LinkedHashMap<>();
     }
